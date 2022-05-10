@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/arrow_vayu.mk
+    $(LOCAL_DIR)/voltage_vayu.mk
 
 COMMON_LUNCH_CHOICES := \
-    arrow_vayu-eng \
-    arrow_vayu-userdebug \
-    arrow_vayu-user
+    voltage_vayu-eng \
+    voltage_vayu-userdebug \
+    voltage_vayu-user
